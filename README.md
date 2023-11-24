@@ -9,8 +9,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
  
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
+ Hardware – PCs, Cyclone II , USB flasher Software – Quartus prime
 
 
 ## Theory
@@ -42,11 +41,6 @@ A combinational circuit is a circuit in which the output depends on the present 
    - Give the Input Combinations according to the Truth Table amd then simulate the Output waveform
 
 ## Program:
-/*
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by:Ashwath M 
-RegisterNumber:23000309  
-*/
 ```
 module verilog(A,B,C,D,F1);
 input A,B,C,D;
