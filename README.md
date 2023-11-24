@@ -1,6 +1,6 @@
-## NAME:Ashwath M
-## register number:23000309
-## Experiment--02-Implementation-of-combinational-logic
+### NAME:Ashwath M
+### register number:23000309
+## Experiment 02 Implementation of combinational logic
 Implementation of combinational logic gates 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
