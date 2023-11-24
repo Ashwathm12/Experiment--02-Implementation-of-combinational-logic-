@@ -1,5 +1,5 @@
 ### NAME:Ashwath M
-### register number:23000309
+### Register number:23000309
 ## Experiment 02 Implementation of combinational logic
 Implementation of combinational logic gates 
 ## AIM:
