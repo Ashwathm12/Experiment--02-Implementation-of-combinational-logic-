@@ -1,6 +1,7 @@
-# Experiment--02-Implementation-of-combinational-logic
-Implementation of combinational logic gates
- 
+## NAME Ashwath M
+## register number:23000309
+## Experiment--02-Implementation-of-combinational-logic
+Implementation of combinational logic gates 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
@@ -56,10 +57,11 @@ endmodule
 ```
 ## RTL realization
 ![experiment 2 RTL](https://github.com/Ashwathm12/Experiment--02-Implementation-of-combinational-logic-/assets/138849225/06169d68-8453-462b-a91a-708669471b8b)
-## Timing Diagram
-![experiment 2 waveform](https://github.com/Ashwathm12/Experiment--02-Implementation-of-combinational-logic-/assets/138849225/a9853019-0754-44bf-a1b2-78a1173eea36)
 ## Truth table
 ![experiment 2 table](https://github.com/Ashwathm12/Experiment--02-Implementation-of-combinational-logic-/assets/138849225/b980ee4e-9c0c-46c8-bfab-1395ca58560c)
+
+## Timing Diagram
+![experiment 2 waveform](https://github.com/Ashwathm12/Experiment--02-Implementation-of-combinational-logic-/assets/138849225/a9853019-0754-44bf-a1b2-78a1173eea36)
 
 
 ## Result:
