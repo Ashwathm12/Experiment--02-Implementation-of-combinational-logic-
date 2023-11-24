@@ -47,6 +47,7 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by:Ashwath M 
 RegisterNumber:23000309  
 */
+```
 module verilog(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
@@ -58,6 +59,7 @@ assign x4=(~A)&(B)&(C)&(D);
 assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
+```
 ## RTL realization
 ![experiment 2 RTL](https://github.com/Ashwathm12/Experiment--02-Implementation-of-combinational-logic-/assets/138849225/06169d68-8453-462b-a91a-708669471b8b)
 ## Timing Diagram
